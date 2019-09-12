@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "text": "基本信息查询",
+      "icon": "&#xe620;",
+      "subset": [
+      {
+          "text": "药品信息查询",
+          "icon": "&#xe621;",
+          "href": "src/baseInfoSearch/drugInfoSearch.html"
+        },
+        {
+          "text": "诊断信息查询",
+          "icon": "&#xe621;",
+          "href": "src/baseInfoSearch/diagnoseInfoSearch.html"
+        },
+        {
+          "text": "医院信息查询",
+          "icon": "&#xe621;",
+          "href": "src/baseInfoSearch/hospitalInfoSearch.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "userType": "1",
+      "name": "admin",
+      "description": "管理员"
+    },{
+      "userType": "2",
+      "name": "user",
+      "description": "普通用户"
+    },{
+      "userType": "3",
+      "name": "yiyong",
+      "description": "易雍用户"
+    }
+  ]
+}
